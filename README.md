@@ -29,18 +29,14 @@ Ecommerce-Sales-Prediction/
 - Train and evaluate **machine learning models** to predict total sales.
 - Compare performance between **Linear Regression** and **Random Forest Regressor**.
 - Predict sales for **new data entries** using the trained model.
-
 ---
-
 ## ⚙️ Technologies Used
 - **Python 3**
 - **Pandas** – Data manipulation  
 - **NumPy** – Numerical computations  
 - **Matplotlib & Seaborn** – Data visualization  
 - **Scikit-learn** – Machine learning modeling and preprocessing  
-
 ---
-
 ## 🧩 Workflow Summary
 
 ### 1. Data Loading & Inspection
@@ -85,9 +81,7 @@ Ecommerce-Sales-Prediction/
 - Predicts sales for a new hypothetical input.
 
 ---
-
 ## 📊 Sample Output
-
 <img width="950" height="650" alt="image" src="https://github.com/user-attachments/assets/17248cfa-c9a9-4109-b810-e2b558459b41" />
 <img width="950" height="650" alt="image" src="https://github.com/user-attachments/assets/e5097f39-c697-49eb-9747-36f2231f0c09" />
  
