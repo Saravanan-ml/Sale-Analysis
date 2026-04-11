@@ -11,7 +11,6 @@ from sklearn.ensemble import RandomForestRegressor
 from sklearn.metrics import mean_absolute_error, mean_squared_error, r2_score
 
 # --- 1. CONFIGURATION AND INITIAL SETUP ---
-# Set a style for the plots for better aesthetics
 sns.set_style("whitegrid")
 plt.style.use("fivethirtyeight")
 
